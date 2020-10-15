@@ -3,7 +3,7 @@
 void main()
 {
 clrscr();
-cout<<"my first!";
+cout<<"my first pr!";
   cout<<"my world!";
 getch();
 }
